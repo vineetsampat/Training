@@ -1,0 +1,4 @@
+This is example of git testing .
+This is how it has to be done .
+
+
