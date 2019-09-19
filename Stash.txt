@@ -1,0 +1,10 @@
+Git STASHING:
+Saving your local changes to temporary buffer before pulling from repo.
+
+git stash : save the data to buffer.
+
+git stash apply: getting back data from buffer
+
+git stash pop: to pop data from buffer
+
+git stash clear : clearing data in temporary
